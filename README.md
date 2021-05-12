@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumeet6510
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine and deep learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me 7983591130
 
 <!---
